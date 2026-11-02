@@ -1,10 +1,12 @@
 # PCIE-Card-Template-
-PCIE x1,x4,x8, and x16 Card Template for Kicad.
+PCIE x1,x4,x8, and x16 Card Template for KiCad.
 
 PCIE x1 card
 This is the PCIe schematic.
+
 <img width="629" height="740" alt="PCIE-x1" src="https://github.com/user-attachments/assets/df1b549f-2132-4ad5-8e25-d8ffc78b38a9" />
 This is the PCB PCIE schematic.
+
 <img width="677" height="245" alt="PCIE-PCB-x1" src="https://github.com/user-attachments/assets/c71db429-b76e-4a17-b6db-e6e15aa393ee" />
 
 PCIE x4 card
