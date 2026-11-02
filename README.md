@@ -22,6 +22,8 @@ This is the PCB PCIE schematic.
 
 PCIE x16 card
 This is the PCIe schematic.
-
+<img width="253" height="599" alt="PCIE-x16" src="https://github.com/user-attachments/assets/4736219a-5742-45e1-9297-4779068e6862" />
+This is the PCB PCIE schematic.
+<img width="715" height="241" alt="PCIE-PCB-x16" src="https://github.com/user-attachments/assets/022650bc-c3a7-4c4b-87ae-6c34020da0d3" />
 
 
